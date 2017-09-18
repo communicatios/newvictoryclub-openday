@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#b8312f",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -20,10 +20,13 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#bfcecb"
+      ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 4,
+    "uniqCompNum": 11,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "true",
@@ -46,7 +49,7 @@
             "showTitle": true,
             "showText": true,
             "inverse": false,
-            "showArrow": false,
+            "showArrow": true,
             "showFormTitle": true,
             "countdown": "2017/10/02",
             "bgImageRadio": true,
@@ -66,7 +69,7 @@
           "title2": "ISCRIVITI <br>ORA<br>",
           "text": "TI SEI ASSICURATO L'INGRESSO GRATUITO AL NOSTRO OPEN DAY (LUNEDÌ 2 OTTOBRE) IN CUI POTRAI PROVARE TUTTE LE NOSTRE LEZIONI <br> <br>Partecipa al Fitness Day che la New Victory Club ha organizzato per te:<br><br>- lezioni special<br>- master class <br>- fitness no stop<br>- dj set<br>- aperitivo. <br><br>INSERISCI I TUOI DATI PER RICEVERE L'OMAGGIO E PER PRENOTARE LA TUA LEZIONE",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INVIA ISCRIZIONE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INVIA SUBITO</a>",
           "form": {
             "action": "",
             "alerts": {
@@ -118,6 +121,51 @@
               "font-size": "14px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "CONDIVIDI",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-9"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 New Victory Club.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a"
         }
       ]
     }
