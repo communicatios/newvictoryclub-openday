@@ -1,0 +1,2 @@
+# newvictoryclub-openday
+GitHub Pages
