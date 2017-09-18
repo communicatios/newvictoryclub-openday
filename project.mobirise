@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "name": "New Victory Club Open Day",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.3.0",
+    "uniqCompNum": 4,
+    "versionPublish": "4.3.0",
+    "favicon": "",
+    "noImageResize": "true",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "showArrow": false,
+            "showFormTitle": true,
+            "countdown": "2017/10/02",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/new-victory-landing-page-1180x787.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "CONGRATULAZIONI",
+          "title2": "ISCRIVITI <br>ORA<br>",
+          "text": "TI SEI ASSICURATO L'INGRESSO GRATUITO AL NOSTRO OPEN DAY (LUNEDÌ 2 OTTOBRE) IN CUI POTRAI PROVARE TUTTE LE NOSTRE LEZIONI <br> <br>Partecipa al Fitness Day che la New Victory Club ha organizzato per te:<br><br>- lezioni special<br>- master class <br>- fitness no stop<br>- dj set<br>- aperitivo. <br><br>INSERISCI I TUOI DATI PER RICEVERE L'OMAGGIO E PER PRENOTARE LA TUA LEZIONE",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INVIA ISCRIZIONE</a>",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Tel*"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_anchor": "extHeader13-3",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            "H4": {
+              "color": "#d14841"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
